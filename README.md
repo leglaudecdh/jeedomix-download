@@ -8,7 +8,7 @@ vocalement une installation domotique Jeedom.
 - Reconnaissance vocale.
 - Pilotage des équipements Jeedom.
 - Exécution d’interactions domotiques.
-- Fonctionnement en arrière-plan.
+- Fonctionnement non-stop.
 - Dialogue avec une intelligence artificielle, selon la configuration.
 
 ## Télécharger l’application
@@ -27,9 +27,9 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
 ## Configuration nécessaire
 
 - Adresse locale de votre installation Jeedom.
-- Adresse publique, si nécessaire.
+- Adresse publique, pour accès "world".
 - Clé API Jeedom.
-- Mot ou expression de déclenchement.
+- Mot de déclenchement.
 
 ## Compatibilité
 
