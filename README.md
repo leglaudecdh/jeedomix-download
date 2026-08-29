@@ -32,6 +32,8 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
 - Mot de déclenchement.
   
  <img width="216" height="468" alt="image" src="https://github.com/user-attachments/assets/c7803ea8-8876-4956-8411-2b93bcfa946c" />
+
+ 
 ## Compatibilité
 
 Android 5.0 ou version ultérieure.
