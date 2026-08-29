@@ -40,4 +40,4 @@ Android 5.0 ou version ultérieure.
 
 ## Démonstration vidéo
 
-Vidéo à venir.
+[Vidéo.](https://youtu.be/5pUdLefoq54)
