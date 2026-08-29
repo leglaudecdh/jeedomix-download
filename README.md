@@ -23,7 +23,7 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
 2. Autorisez, si nécessaire, l’installation depuis cette source.
 3. Installez l’application.
 4. Renseignez les paramètres de votre installation Jeedom.
-5. <img width="108" height="234" alt="image" src="https://github.com/user-attachments/assets/d30fd30f-5d0c-48b7-8a11-b6e91811aba4" />
+5. <img width="216" height="468" alt="image" src="https://github.com/user-attachments/assets/d30fd30f-5d0c-48b7-8a11-b6e91811aba4" />
 
 
 ## Configuration nécessaire
