@@ -49,7 +49,7 @@ Android 5.0 ou version ultérieure.
 
 [Vidéo.](https://youtu.be/5pUdLefoq54)
 
-##(*) Concernant les autorisations:
+## (*) Concernant les autorisations:
 1. Audio: si pas de microphone, pas d'écoute...
 2. Notification: pour avoir le retour de l'échange homme-machine ("chat")
 3. Premier plan: idem, priorité d'affichage à la page d'accueil qui revient pour les échanges
