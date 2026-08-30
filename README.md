@@ -47,7 +47,7 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
 Android 5.0 ou version ultérieure.
 
 ## Démonstration vidéo
-
+https://youtu.be/-NNZ8MlC6JA
 [Vidéo]https://youtu.be/-NNZ8MlC6JA
 
 ## (*) Concernant les autorisations:
