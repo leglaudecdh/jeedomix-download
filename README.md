@@ -20,7 +20,8 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
 ## Installation
 
 1. Téléchargez le fichier APK sur votre smartphone ou tablette Android.
-2. Autorisez, si nécessaire, l’installation depuis cette source.
+2. Autorisez, si nécessaire, l’installation depuis cette source, du genre "Paramètres > Sécurité > Sources inconnues" etc.
+
    Remarque: 2 cas de figure (entre autres) chez moi:
    - Sur Samsung S4, il faut *Analyser l'application* puis approuver les autorisations (*). J'ai aussi dû m'y reprendre à 2 fois pour finaliser l'installation.
    - Sur S21, *Appli non sécurisée bloquée* => *Plus de détails* => *Installer quand même* :
