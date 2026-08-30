@@ -48,3 +48,9 @@ Android 5.0 ou version ultérieure.
 ## Démonstration vidéo
 
 [Vidéo.](https://youtu.be/5pUdLefoq54)
+
+##(*) Concernant les autorisations:
+1. Audio: si pas de microphone, pas d'écoute...
+2. Notification: pour avoir le retour de l'échange homme-machine ("chat")
+3. Premier plan: idem, priorité d'affichage à la page d'accueil qui revient pour les échanges
+4. Photos, fichiers musicaux,, etc. : uniquement pour machines obsolètes où un mp3 sert de feedback à la place d'une tonalité électronique (c'est le cas pour mon S4, et ce n'est pas indispensable)
