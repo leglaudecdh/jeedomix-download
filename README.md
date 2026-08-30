@@ -48,7 +48,7 @@ Android 5.0 ou version ultérieure.
 
 ## Démonstration vidéo
 
-[Vidéo.](https://youtu.be/5pUdLefoq54)
+[Vidéo]https://youtu.be/-NNZ8MlC6JA
 
 ## (*) Concernant les autorisations:
 1. Audio: si pas de microphone, pas d'écoute...
