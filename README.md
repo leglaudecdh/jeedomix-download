@@ -25,6 +25,7 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
    - Sur Samsung S4, il faut *Analyser l'application* puis approuver les autorisations (*). J'ai aussi dû m'y reprendre à 2 fois pour finaliser l'installation.
    - Sur S21, *Appli non sécurisée bloquée* => *Plus de détails* => *Installer quand même* :
    - <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/9f4a7e24-490a-43fb-87d3-9fe864e7eb99" />   <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/56db99b9-11e2-4277-8a86-732db3b11f0f" />
+   
    Donner les autorisations (*)
 4. Installez l’application.
 5. Renseignez les paramètres de votre installation Jeedom.
