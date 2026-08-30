@@ -24,7 +24,7 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
    Remarque: 2 cas de figure (entre autres) chez moi:
    - Sur Samsung S4, il faut *Analyser l'application* puis approuver les autorisations (*). J'ai aussi dû m'y reprendre à 2 fois pour finaliser l'installation.
    - Sur S21, *Appli non sécurisée bloquée* => *Plus de détails* => *Installer quand même* :
-    <img width="108" height="217" alt="image" src="https://github.com/user-attachments/assets/9f4a7e24-490a-43fb-87d3-9fe864e7eb99" /><img width="108" height="217" alt="image" src="https://github.com/user-attachments/assets/56db99b9-11e2-4277-8a86-732db3b11f0f" />
+   - <img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/9f4a7e24-490a-43fb-87d3-9fe864e7eb99" /><img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/56db99b9-11e2-4277-8a86-732db3b11f0f" />
 
 
 4. Installez l’application.
