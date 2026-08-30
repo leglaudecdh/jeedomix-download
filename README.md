@@ -46,9 +46,11 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
 
 Android 5.0 ou version ultérieure.
 
-## Démonstration vidéo
+## Démonstrations vidéo
 
-Vidéo https://youtu.be/-NNZ8MlC6JA
+1) Démos sur 4 machines: https://youtu.be/-NNZ8MlC6JA
+2) Comparaison latences Google Home-Jeedomix:
+3) Mon petit bonus perso (IA): https://youtu.be/5AFxjV6Et_U
 
 
 ## (*) Concernant les autorisations:
