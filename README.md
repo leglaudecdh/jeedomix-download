@@ -7,7 +7,7 @@ vocalement une installation domotique Jeedom.
 
 # Motivation
 
-J'ai toujours aimé les histoires où l'individu parle à sa maison et la gère. L'arrivée des Google Home  m'a permis de concrétiser ce rêve d'enfant. Mais très vite cette façon d'apostropher l'enceinte par "ok google" puis de prononcer la demande puis d'attendre parfois plus de 5 sec sa réalisation... m'a lassé. Je me suis fixé comme objectif de recoller à un comportement plus proche de la réalité. On ne demande pas à un assistant: ok sébastien donne-moi la clé de 12. On se contente de Sébastien, (donne-moi) la clé de 12 :-)
+J'ai toujours aimé les histoires où l'individu parle à sa maison et la gère. L'arrivée des Google Home en combinaison avec le merveilleux outil 'interactions' de Jeedom (dont personnellement, je ne trouve le plein potentiel qu'avec des requêtes vocales) m'a permis de concrétiser ce rêve d'enfant. Mais très vite cette façon d'apostropher l'enceinte par "ok google" puis de prononcer la demande puis d'attendre parfois plus de 5 sec sa réalisation... m'a lassé. Je me suis fixé comme objectif de recoller à un comportement plus proche de la réalité. On ne demande pas à un assistant: ok Sébastien donne-moi la clé de 12. On se contente de Sébastien, (donne-moi) la clé de 12 :-)
 
 ## Fonctionnalités
 
@@ -52,6 +52,17 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
  ***Côté Jeedomix*** et partie jeedom:
  
 ***Mot d'appel => ordre vocal =>*** Interactions côté Jeedom => Réponse de Jeedom (soit exécution de l'ordre et ***feedback sur l'app***, soit échec car cas non prévu dans les interactions et ***"je ne comprends pas" sur l'app***)
+
+Exemple, si l'équipement télé est géré par les interactions: 
+
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/797fc522-586a-46af-b5c3-c0c61af8be26" />
+
+Jarvis, allume la télé                |          Feedback: Equipement coin télé activé.
+
+<img width="280" height="210" alt="image" src="https://github.com/user-attachments/assets/ccc99fce-4a77-47b2-a0c6-50d257ada1ca" />
+
+
+
 
  
 ## Compatibilité
