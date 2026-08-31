@@ -7,7 +7,7 @@ vocalement une installation domotique Jeedom.
 
 # Motivation
 
-J'ai toujours aimé les histoires où l'individu parle à sa maison et la gère. L'arrivée des Google Home en combinaison avec le merveilleux outil 'interactions' de Jeedom (dont personnellement, je ne trouve le plein potentiel qu'avec des requêtes vocales) m'a permis de concrétiser ce rêve d'enfant. Mais très vite cette façon d'apostropher l'enceinte par "ok google" puis de prononcer la demande puis d'attendre parfois plus de 5 sec sa réalisation... m'a lassé. Je me suis fixé comme objectif de recoller à un comportement plus proche de la réalité. On ne demande pas à un assistant: ok Sébastien donne-moi la clé de 12. On se contente de Sébastien, (donne-moi) la clé de 12 :-)
+J'ai toujours aimé les histoires où l'individu parle à sa maison et la gère. L'arrivée des Google Home en combinaison avec le merveilleux outil 'interactions' de Jeedom (dont personnellement, je ne trouve le plein potentiel qu'avec des requêtes vocales) m'a permis de concrétiser ce rêve d'enfant. Mais très vite cette façon d'apostropher l'enceinte par "ok google" puis de prononcer la demande puis d'attendre parfois plus de 5 secondes sa réalisation... m'a lassé. Je me suis fixé comme objectif de recoller à un comportement plus proche de la réalité. On ne demande pas à un assistant: ok Sébastien donne-moi la clé de 12. On se contente de Sébastien, (donne-moi) la clé de 12 :-)
 
 ## Fonctionnalités
 
