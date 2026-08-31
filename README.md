@@ -3,6 +3,12 @@
 Jeedomix est une application Android permettant de piloter
 vocalement une installation domotique Jeedom.
 
+
+
+# Motivation
+
+J'ai toujours aimé les histoires où l'individu parle à sa maison et la gère. L'arrivée des Google Home  m'a permis de concrétiser ce rêve d'enfant. Mais très vite cette façon d'apostropher l'enceinte par "ok google" puis de prononcer la demande puis d'attendre parfois plus de 5 sec sa réalisation... m'a lassé. Je me suis fixé comme objectif de recoller à un comportement plus proche de la réalité. On ne demande pas à un assistant: ok sébastien donne-moi la clé de 12. On se contente de Sébastien, (donne-moi) la clé de 12 :-)
+
 ## Fonctionnalités
 
 - Reconnaissance vocale.
