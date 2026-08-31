@@ -47,6 +47,12 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
   
  <img width="216" height="468" alt="image" src="https://github.com/user-attachments/assets/c7803ea8-8876-4956-8411-2b93bcfa946c" />
 
+## Déroulement basique et obligations syntaxiques
+
+ ***Côté Jeedomix*** et partie jeedom:
+ 
+***Mot d'appel => ordre vocal =>*** Interactions côté Jeedom => Réponse de Jeedom (soit exécution de l'ordre et ***feedback sur l'app***, soit échec car cas non prévu dans les interactions et ***"je ne comprends pas" sur l'app***)
+
  
 ## Compatibilité
 
