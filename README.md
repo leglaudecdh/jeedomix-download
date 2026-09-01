@@ -43,7 +43,7 @@ Dans la rubrique **Assets**, sélectionnez le fichier `.apk`.
 - Adresse locale de votre installation Jeedom.
 - Adresse publique, pour accès "world".
 - Clé API Jeedom.
-- Mot de déclenchement.
+- Mot de déclenchement (au choix, discriminant au possible. Eviter 'Donald' quand la télévision livre les infos :-)
   
  <img width="216" height="468" alt="image" src="https://github.com/user-attachments/assets/c7803ea8-8876-4956-8411-2b93bcfa946c" />
 
