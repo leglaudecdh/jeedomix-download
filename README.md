@@ -72,7 +72,7 @@ Android 5.0 ou version ultérieure.
 ## Démonstrations vidéo
 
 1) Démos sur 4 machines: https://youtu.be/-NNZ8MlC6JA
-2) Comparaison latences Google Home-Jeedomix:
+2) Comparaison latences Google Home-Jeedomix:https://youtu.be/Bjnyc0yIi30
 3) Mon petit bonus perso (IA): https://youtu.be/5AFxjV6Et_U
 
 
